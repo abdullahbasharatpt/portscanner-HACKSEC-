@@ -1,6 +1,6 @@
 # Port Scanner - HACKSEC 🔍
 
-This is a simple Python-based **Port Scanner** built as part of my cybersecurity internship with HACKSEC.
+This is a simple Python based **Port Scanner** built as part of my cybersecurity internship with HACKSEC.
 
 It scans for open TCP ports on a given IP address and port range, handles invalid inputs, and displays open ports in a clean output format.
 
